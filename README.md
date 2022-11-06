@@ -2,8 +2,6 @@
 create an algorithmic trading bot that learns and adapts to new data and evolving markets
 
 ## Evaluation Report
-Add a summary evaluation report at the end of the README.md file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created. (10 points)
-
 The classification report of the SVC model predictions can be found here:
 ![SVC_Model](classification_report.png)
 
